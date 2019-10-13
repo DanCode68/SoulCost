@@ -1,9 +1,10 @@
 d:\users\daniel\documents\visual studio 2015\Projects\SoulCost\SoulCost\bin\Debug\SoulCost.exe.config
 d:\users\daniel\documents\visual studio 2015\Projects\SoulCost\SoulCost\bin\Debug\SoulCost.exe
 d:\users\daniel\documents\visual studio 2015\Projects\SoulCost\SoulCost\bin\Debug\SoulCost.pdb
-d:\users\daniel\documents\visual studio 2015\Projects\SoulCost\SoulCost\obj\Debug\SoulCost.csprojResolveAssemblyReference.cache
 d:\users\daniel\documents\visual studio 2015\Projects\SoulCost\SoulCost\obj\Debug\SoulCost.form.resources
 d:\users\daniel\documents\visual studio 2015\Projects\SoulCost\SoulCost\obj\Debug\SoulCost.Properties.Resources.resources
 d:\users\daniel\documents\visual studio 2015\Projects\SoulCost\SoulCost\obj\Debug\SoulCost.csproj.GenerateResource.Cache
 d:\users\daniel\documents\visual studio 2015\Projects\SoulCost\SoulCost\obj\Debug\SoulCost.exe
 d:\users\daniel\documents\visual studio 2015\Projects\SoulCost\SoulCost\obj\Debug\SoulCost.pdb
+D:\Users\Daniel\Documents\Visual Studio 2015\Projects\SoulCost\SoulCost\obj\Debug\SoulCost.csprojAssemblyReference.cache
+D:\Users\Daniel\Documents\Visual Studio 2015\Projects\SoulCost\SoulCost\obj\Debug\SoulCost.csproj.CoreCompileInputs.cache
